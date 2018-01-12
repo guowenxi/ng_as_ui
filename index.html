@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myapp" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    demo-charts{width:20vw;height:20vh;}
+</style>
+
+<!--------------------------------jq------------------------------>
+<script src="lib/jquery-3.1.0.js"></script>
+<script type="text/javascript" src="lib/svg.js"></script>
+<!--------------------------------jq插件------------------------------>
+<!-------------------------------angular------------------------------>
+<script src="lib/angular.js"></script>
+<script src="lib/angular-ui-router.js"></script>
+<script src="lib/ocLazyLoad.js"></script>
+<!-------------------------------图表插件------------------------------>
+<script src="lib/echarts.js"></script>
+
+
+<!-------------------------------index------------------------------>
+<script src="index.js"></script>
+<script src="module/charts.js"></script>
+<body ng-controller="indexCtrl">
+
+<charts class="demo-charts" url="/olap/getOlapData" url-params='{"id":"130"}'></charts>
+</body>
+</html>

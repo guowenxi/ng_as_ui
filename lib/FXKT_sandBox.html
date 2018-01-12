@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myapp" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/index.css" rel="stylesheet">
+    <link href="css/FXKT_sandBox.css" rel="stylesheet">
+    <link href="lib/css/bootstrap.css" rel="stylesheet">
+    <link href="lib/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+    <link href="lib/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/css/tree-control.css" rel="stylesheet">
+    <link href="lib/css/tree-control-attribute.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="lib/arcgis_js_api/dijit/themes/tundra/tundra.css">
+    <link rel="stylesheet" href="lib/arcgis_js_api/esri/css/esri.css">
+
+</head>
+<!--------------------------------jq------------------------------>
+<script src="lib/jquery-3.1.0.js"></script>
+<!--------------------------------jq插件------------------------------>
+<script src="lib/jquery.ztree.core.js"></script>
+<!-------------------------------angular------------------------------>
+<script src="lib/angular.js"></script>
+<script src="lib/angular-ui-router.js"></script>
+<script src="lib/ocLazyLoad.js"></script>
+<!-------------------------------angular插件------------------------------>
+<script src="lib/angular-animate.min.js"></script>
+<script src="lib/countUp.js"></script>
+<script src="lib/angular-countUp.js"></script>
+<script src="lib/angular-drag.js"></script>
+<script src="lib/angular-image-404.min.js"></script>
+<script src="lib/angular-tree-control.js"></script>
+<script src="lib/ngscrollbar.js"></script>
+<script src="lib/ui-bootstrap-2.3.1.js"></script>
+<script src="lib/ui-bootstrap-tpls-2.3.1.min.js"></script>
+<!-------------------------------图表插件------------------------------>
+<script src="lib/echarts.js"></script>
+<!-------------------------------地图插件------------------------------>
+<!--<script src=" http://api.tianditu.com/api?v=4.0" type="text/javascript"></script>-->
+<script>
+    var dojoConfig = {
+        paths: {
+            extras: location.pathname.replace(/\/[^/]+$/, "") + "/extras"
+        }
+    };
+</script>
+<script src="lib/turf.min.js"></script>
+<script src="lib/arcgis_js_api/init.js"></script>
+
+
+
+<!-------------------------------浏览器前缀插件------------------------------>
+<!--
+<script src="lib/prefixfree.js"></script>
+-->
+
+<script src="js/report_sandBox.js"></script>
+
+
+<!-------------------------------组件模板------------------------------>
+
+<!--地图menu菜单组件-->
+<script src="sand_module/menu_map/menu_map.js"></script>
+<!--地图组件-->
+<script src="sand_module/map/newMap.js"></script>
+<!--<script src="sand_module/map/map.js"></script>-->
+<!--图表组件-->
+<!--列表组件-->
+<script src="sand_module/report_scroll/report_scroll.js"></script>
+<!--列表菜单组件-->
+<script src="sand_module/menu_report/menu_report.js"></script>
+<!--详情组件-->
+<script src="sand_module/index_page/index_page.js"></script>
+<!--热力地图组件-->
+<!--城区地图组件-->
+<!--多种图标组件-->
+<!-------------------------------page02------------------------------>
+
+<script src="sand_module/camera/camera.js"></script>
+<script src="FXKT_sandBox/JSL.js"></script>
+<!-------------------------------page03------------------------------>
+
+
+
+<body ng-controller="indexCtrl">
+<jsl-bar></jsl-bar>
+</body>
+</html>
+
+
+
+
+

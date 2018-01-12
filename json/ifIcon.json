@@ -1,0 +1,96 @@
+[
+  {"name":"SZCG","img":"images/maker/event/SZCG.svg"},
+  {"name":"SPQLYG","img":"images/maker/event/SZCG.svg"},
+  {"name":"ZFQLYG","img":"images/maker/event/ZFBA.svg"},
+  {"name":"RXSL","img":"images/maker/event/RXDH.svg"},
+  {"name":"JKZL","img":"images/maker/event/ZNBJ.svg"},
+  {"name":"TCJG","img":"images/maker/event/HYJG.svg"},
+  {"name":"QQT","img":"images/maker/event/QJJG.svg"},
+  {"name":"APP","img":"images/maker/event/GGFW.svg"},
+  {"name":"RGSB","img":"images/maker/event/RGSB.svg"},
+  {"name":"SJZT","img":"images/maker/event/RGSB.svg"},
+
+  {"name":"停车收费人员","img":"images/maker/people/RGSB.svg"},
+  {"name":"巡查人员","img":"images/maker/people/XCRY.svg"},
+  {"name":"执法人员","img":"images/maker/people/ZFRY.svg"},
+  {"name":"数字对讲","img":"images/maker/people/SZDJ.svg"},
+  {"name":"环卫人员","img":"images/maker/people/HWRY.svg"},
+  {"name":"采集人员","img":"images/maker/people/CJRY.svg"},
+
+  {"name":"机扫车","img":"images/maker/car/JSC.svg"},
+  {"name":"执法车辆","img":"images/maker/car/ZFCL.svg"},
+  {"name":"车载视频","img":"images/maker/car/SPCL.svg"},
+  {"name":"工程渣土车","img":"images/maker/car/ZTC.svg"},
+  {"name":"扫雪车","img":"images/maker/car/SXC.svg"},
+  {"name":"防汛车","img":"images/maker/car/FXC.svg"},
+  {"name":"洒水车","img":"images/maker/car/SSC.svg"},
+  {"name":"高压清洗车","img":"images/maker/car/GYQXC.svg"},
+  {"name":"清扫车(扫路机)","img":"images/maker/car/LJQYC.svg"},
+  {"name":"垃圾车","img":"images/maker/car/JSC.svg"},
+  {"name":"巡查车","img":"images/maker/car/ZFCL.svg"},
+  {"name":"垃圾清运车","img":"images/maker/car/JSC.svg"},
+  {"name":"粪车","img":"images/maker/car/ZTC.svg"},
+
+  {"name":"积水点","img":"images/maker/perception/JSD.svg"},
+  {"name":"水情","img":"images/maker/perception/SQ.svg"},
+  {"name":"雨情","img":"images/maker/perception/YQ.svg"},
+  {"name":"智能井盖","img":"images/maker/perception/ZNJG.svg"},
+  {"name":"桥隧","img":"images/maker/perception/QS.svg"},
+  {"name":"渣土","img":"images/maker/perception/ZT.svg"},
+  {"name":"drain","img":"images/maker/perception/ZNPCK.svg"},
+
+  {"name":"雨情","level":"无雨","img":"images/maker/perception/state/WUYU.svg"},
+  {"name":"雨情","level":"小雨","img":"images/maker/perception/state/XIAOYU.svg"},
+  {"name":"雨情","level":"中雨","img":"images/maker/perception/state/ZHONGYU.svg"},
+  {"name":"雨情","level":"大雨","img":"images/maker/perception/state/DAYU.svg"},
+  {"name":"雨情","level":"暴雨","img":"images/maker/perception/state/BAOYU.svg"},
+  {"name":"雨情","level":"大暴雨","img":"images/maker/perception/state/DABAOYU.svg"},
+  {"name":"雨情","level":"特大暴雨","img":"images/maker/perception/state/TEDABAOYU.svg"},
+
+  {"name":"积水点","level":"正常","img":"images/maker/perception/JSD.svg"},
+  {"name":"积水点","level":"预警","img":"images/maker/perception/state/YUJING_JSD.svg"},
+  {"name":"积水点","level":"报警","img":"images/maker/perception/state/BAOJING_JSD.svg"},
+
+  {"name":"水情","level":"正常","img":"images/maker/perception/SQ.svg"},
+  {"name":"水情","level":"预警","img":"images/maker/perception/state/YUJING.svg"},
+  {"name":"水情","level":"报警","img":"images/maker/perception/state/BAOJING.svg"},
+
+    {"name":"8","img":"images/maker/goods/SZ.svg"},
+    {"name":"1","img":"images/maker/goods/GGSS.svg"},
+    {"name":"2","img":"images/maker/goods/DLJT.svg"},
+    {"name":"3","img":"images/maker/goods/SRHJ.svg"},
+    {"name":"4","img":"images/maker/goods/YLLH.svg"},
+    {"name":"5","img":"images/maker/goods/FWTD.svg"},
+    {"name":"6","img":"images/maker/goods/QTSB.svg"},
+    {"name":"7","img":"images/maker/goods/KZBJ.svg"},
+
+
+
+  {"name":"城管自建1","img":"images/maker/camera/CGZJ.svg"},
+  {"name":"城区接入1","img":"images/maker/camera/CQJR.svg"},
+  {"name":"公安接入1","img":"images/maker/camera/GAJR.svg"},
+  {"name":"车载视频1","img":"images/maker/camera/CZSP.svg"},
+
+  {"name":"自建视频1","img":"images/maker/camera/CGZJ.svg"},
+  {"name":"公安视频1","img":"images/maker/camera/GAJR.svg"},
+  {"name":"交通局1","img":"images/maker/camera/CZSP.svg"},
+
+  {"name":"城管自建","img":"images/maker/camera/CGZJ.svg"},
+  {"name":"城区接入","img":"images/maker/camera/CQJR.svg"},
+  {"name":"公安接入","img":"images/maker/camera/GAJR.svg"},
+  {"name":"车载视频1","img":"images/maker/camera/CZSP.svg"},
+
+  {"name":"自建视频","img":"images/maker/camera/CGZJ.svg"},
+  {"name":"公安视频","img":"images/maker/camera/GAJR.svg"},
+  {"name":"交通局","img":"images/maker/camera/CZSP.svg"},
+  {"name":"智能视频1","img":"images/maker/camera/ZNSP.svg"},
+
+
+  {"name":"仓库","img":"images/maker/storage/CK.svg"},
+  
+  {"name":"消纳点","img":"images/maker/SRHW/XND.svg"},
+  {"name":"码头","img":"images/maker/SRHW/MT.svg"},
+
+
+  {"name":"park","img":"images/maker/TCSF/TCD.svg"}
+]

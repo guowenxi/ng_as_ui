@@ -1,0 +1,26 @@
+{
+	"success":1,
+	"errorCode":null,
+	"message":"",
+	"data":{
+		"ids":null,
+		"legends":null,
+		"series":[
+			"48",
+			"67",
+			"75",
+			"45",
+			"52",
+			"44"
+		],
+		"title":"",
+		"xAxis":[
+			"上城区",
+			"下城区",
+			"江干区",
+			"拱墅区",
+			"西湖区",
+			"风景区"
+		]
+	}
+}

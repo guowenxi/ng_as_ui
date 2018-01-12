@@ -1,0 +1,1 @@
+{ "success":1, "errorCode":null, "message":"", "data":{ "ids":[ null, null, null, null, null, null ], "legends":null, "series":[ 9769.0, 1.0, 18.0, 476.0, 0.0, 569.0 ], "title":"", "xAxis":[ "今日总事件", "执行指令", "紧急事件", "在线人员", "应急处理", "在线车辆" ] } }

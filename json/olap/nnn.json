@@ -1,0 +1,18 @@
+{
+  "success":1,
+  "errorCode":null,
+  "message":"",
+  "data":{
+    "legends":[],
+    "xAxis":[
+      "总泊位数",
+      "停车总数",
+      "空余泊位"
+    ],
+    "series":[
+      15298,
+      7446,
+      7852
+    ]
+  }
+}

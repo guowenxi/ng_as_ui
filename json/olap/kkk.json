@@ -1,0 +1,24 @@
+{
+  "success":1,
+  "errorCode":null,
+  "message":"",
+  "data":{
+    "ids":[
+      null,
+      null,
+      null
+    ],
+    "legends":null,
+    "series":[
+      38523.0,
+      4376.0,
+      2484599.0
+    ],
+    "title":"",
+    "xAxis":[
+      "贴心城管注册用户",
+      "信息服务",
+      "手机访问量"
+    ]
+  }
+}

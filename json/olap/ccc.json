@@ -1,0 +1,21 @@
+{
+  "success":1,
+  "errorCode":null,
+  "message":"",
+  "data":{
+    "ids":[
+      null,
+      null
+    ],
+    "legends":null,
+    "series":[
+      1597.0,
+      385700.0
+    ],
+    "title":"",
+    "xAxis":[
+      "结案数",
+      "处罚金额"
+    ]
+  }
+}

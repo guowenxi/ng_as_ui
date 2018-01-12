@@ -1,0 +1,27 @@
+{
+  "success":1,
+  "errorCode":null,
+  "message":"",
+  "data":{
+    "ids":[
+      null,
+      null,
+      null,
+      null
+    ],
+    "legends":null,
+    "series":[
+      71.0,
+      44.0,
+      63.0,
+      0.0
+    ],
+    "title":"",
+    "xAxis":[
+      "受理数",
+      "审批数",
+      "办结数",
+      "红牌业务"
+    ]
+  }
+}

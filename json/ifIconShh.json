@@ -1,0 +1,29 @@
+[
+  {"name":"停车收费人员","img":"images/maker/peopleShh/RGSB.VI.svg"},
+  {"name":"巡查人员","img":"images/maker/peopleShh/XCRY.VI.svg"},
+  {"name":"执法人员","img":"images/maker/peopleShh/ZFRY.VI.svg"},
+  {"name":"数字对讲","img":"images/maker/peopleShh/SZDJ.VI.svg"},
+  {"name":"环卫人员","img":"images/maker/peopleShh/HWRY.VI.svg"},
+  {"name":"采集人员","img":"images/maker/peopleShh/CJRY.VI.svg"},
+
+
+  {"name":"清扫车(扫路机)","img":"images/maker/carShh/DGNC.VI.svg"},
+  {"name":"防汛车","img":"images/maker/carShh/FXC.VI.svg"},
+  {"name":"高压清洗车","img":"images/maker/carShh/GYQXC.VI.svg"},
+  {"name":"垃圾车","img":"images/maker/carShh/JSC.VI.svg"},
+  {"name":"机扫车","img":"images/maker/carShh/JSC.VI.svg"},
+  {"name":"垃圾清运车","img":"images/maker/carShh/JSC.VI.svg"},
+  {"name":"车载视频","img":"images/maker/carShh/SPCL.VI.svg"},
+  {"name":"洒水车","img":"images/maker/carShh/SSC.VI.svg"},
+  {"name":"扫雪车","img":"images/maker/carShh/SXC.VI.svg"},
+  {"name":"巡查车","img":"images/maker/carShh/ZFCL.VI.svg"},
+  {"name":"执法车辆","img":"images/maker/carShh/ZFCL.VI.svg"},
+  {"name":"工程渣土车","img":"images/maker/carShh/ZTC.VI.svg"},
+  {"name":"粪车","img":"images/maker/carShh/ZTC.VI.svg"},
+
+  {"name":"交通局1","img":"images/maker/cameraShh/CZSP.VI.svg"},
+  {"name":"城区接入1","img":"images/maker/cameraShh/CQJR.VI.svg"},
+  {"name":"公安视频1","img":"images/maker/cameraShh/GAJR.VI.svg"},
+  {"name":"自建视频1","img":"images/maker/cameraShh/CGZJ.VI.svg"},
+  {"name":"车载视频1","img":"images/maker/cameraShh/CZSP.VI.svg"}
+]

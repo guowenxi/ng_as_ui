@@ -1,0 +1,36 @@
+{
+  "success":1,
+  "errorCode":null,
+  "message":"",
+  "data":{
+    "ids":[
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "legends":null,
+    "series":[
+      169.0,
+      168.0,
+      6.0,
+      83.0,
+      1065.0,
+      270.0,
+      11.0
+    ],
+    "title":"",
+    "xAxis":[
+      "雨量站",
+      "水位点",
+      "积水点",
+      "智能井盖",
+      "桥隧",
+      "渣土",
+      "智能视频"
+    ]
+  }
+}

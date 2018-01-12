@@ -1,0 +1,52 @@
+[
+  {"name":"SZCG","img":"images/menu_report/event/icon_SZCG.svg"},
+  {"name":"SPQLYG","img":"images/menu_report/event/icon_SZCG.svg"},
+  {"name":"ZFQLYG","img":"images/menu_report/event/icon_ZFBA.svg"},
+  {"name":"RXSL","img":"images/menu_report/event/icon_RXDH.svg"},
+  {"name":"JKZL","img":"images/menu_report/event/icon_ZNBJ.svg"},
+  {"name":"TCJG","img":"images/menu_report/event/icon_HYJG.svg"},
+  {"name":"QQT","img":"images/menu_report/event/icon_QJJG.svg"},
+  {"name":"APP","img":"images/menu_report/event/icon_GGFW.svg"},
+  {"name":"RGSB","img":"images/menu_report/event/icon_RGSB.svg"},
+  {"name":"SJZT","img":"images/menu_report/event/icon_RGSB.svg"},
+
+  {"name":"停车收费人员","img":"images/menu_report/people/icon_RGSB.svg"},
+  {"name":"巡查人员","img":"images/menu_report/people/icon_XCRY.svg"},
+  {"name":"执法人员","img":"images/menu_report/people/icon_ZFRY.svg"},
+  {"name":"数字对讲","img":"images/menu_report/people/icon_SZDJ.svg"},
+  {"name":"环卫人员","img":"images/menu_report/people/icon_HWRY.svg"},
+  {"name":"采集人员","img":"images/menu_report/people/icon_CJRY.svg"},
+
+  {"name":"机扫车","img":"images/menu_report/car/icon_JSC.svg"},
+  {"name":"执法车辆","img":"images/menu_report/car/icon_ZFCL.svg"},
+  {"name":"车载视频","img":"images/menu_report/car/icon_SPCL.svg"},
+  {"name":"工程渣土车","img":"images/menu_report/car/icon_ZTC.svg"},
+  {"name":"扫雪车","img":"images/menu_report/car/icon_SXC.svg"},
+  {"name":"防汛车","img":"images/menu_report/car/icon_FXC.svg"},
+  {"name":"洒水车","img":"images/menu_report/car/icon_SSC.svg"},
+  {"name":"高压清洗车","img":"images/menu_report/car/icon_GYQXC.svg"},
+  {"name":"清扫车(扫路机)","img":"images/menu_report/car/icon_DGNC.svg"},
+
+  {"name":"积水点","img":"images/menu_report/perception/icon_JSD.svg"},
+  {"name":"水情","img":"images/menu_report/perception/icon_SQ.svg"},
+  {"name":"雨情","img":"images/menu_report/perception/icon_YQ.svg"},
+  {"name":"智能井盖","img":"images/menu_report/perception/icon_ZNJG.svg"},
+  {"name":"桥隧","img":"images/menu_report/perception/icon_QS.svg"},
+  {"name":"渣土","img":"images/menu_report/perception/icon_ZT.svg"},
+
+
+
+
+  {"name":"城管自建","img":"images/maker/camera/CGZJ.svg"},
+  {"name":"城区接入","img":"images/maker/camera/CQJR.svg"},
+  {"name":"公安接入","img":"images/maker/camera/GAJR.svg"},
+  {"name":"车载视频","img":"images/maker/camera/CZSP.svg"},
+
+  {"name":"自建视频","img":"images/maker/camera/CGZJ.svg"},
+  {"name":"公安视频","img":"images/maker/camera/GAJR.svg"},
+  {"name":"交通局","img":"images/maker/camera/CZSP.svg"},
+
+
+
+  {"name":"仓库","img":"images/maker/storage/CK.svg"}
+]

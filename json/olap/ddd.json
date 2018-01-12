@@ -1,0 +1,24 @@
+{
+  "success":1,
+  "errorCode":null,
+  "message":"",
+  "data":{
+    "ids":[
+      null,
+      null,
+      null
+    ],
+    "legends":null,
+    "series":[
+      68.0,
+      16.0,
+      2490.0
+    ],
+    "title":"",
+    "xAxis":[
+      "一般",
+      "简易",
+      "违停"
+    ]
+  }
+}
