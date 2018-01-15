@@ -6,6 +6,13 @@ app.controller("indexCtrl",function($scope,rootUrlProduct,websocketUrl,$timeout,
 	websocketUrl.add('ws://172.18.13.100:8080');
 
 
+	$scope.listName2="123";
+/*	$scope.$watch("listName2",function (newVal) {
+		$scope.listName2= newVal;
+		debugger
+	})*/
+	
+	
 });
 
 

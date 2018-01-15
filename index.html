@@ -5,7 +5,8 @@
     <title>Title</title>
 </head>
 <style>
-    demo-charts{width:20vw;height:20vh;}
+    .demo-charts{width:20vw;height:20vh;position: absolute;left:0;top:0;}
+    .charts02{width:20vw;height:20vh;position: absolute;left:20vh;top:0;}
 </style>
 
 <!--------------------------------jq------------------------------>
@@ -19,12 +20,21 @@
 <!-------------------------------图表插件------------------------------>
 <script src="lib/echarts.js"></script>
 
-
 <!-------------------------------index------------------------------>
 <script src="index.js"></script>
-<script src="module/charts.js"></script>
+<!--<script src="module/charts.js"></script>-->
+<script src="module/report.js"></script>
 <body ng-controller="indexCtrl">
 
-<charts class="demo-charts" url="/olap/getOlapData" url-params='{"id":"130"}'></charts>
+<!--<charts class="demo-charts" url="/olap/getOlapData" on-click="change()" url-params='{"id":"130"}' charts-style="default_charts"></charts>
+<charts class="charts02" url="/olap/getOlapData" url-params='{"id":"130"}' charts-style="default_charts"></charts>-->
+
+
+<charts></charts>
+<report url="/hzcg/getEmergencyEventList" url-params="">
+    <report-header></report-header>
+    <column></column>
+    <column></column>
+</report>
 </body>
 </html>
