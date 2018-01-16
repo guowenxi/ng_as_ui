@@ -3,7 +3,7 @@
  */
 /*
 * 必须传入参数:
-*  url , chartsStyle
+*  url(支持json) , chartsStyle
 *  可选参数:
 *	chartParams , urlParams
 *
@@ -62,7 +62,7 @@ app.controller("CHARTS", function ($rootScope, $scope, $http, $filter, $interval
 		}
 		$http({
 			method: 'get',
-			url: rootUrlProduct.query() + $scope.de_val.url,
+			url: $scope.de_val.url.indexOf('.json')>=0 ? $scope.de_val.url : rootUrlProduct.query() + $scope.de_val.url,
 			params: $scope.de_val.urlParams
 		}).success(function (_data) {
 			_data.success == 1 ? '' : console.error("CHARTS : chartName:'" + $scope.de_val.chartsClassName + "'的数据加载失败");

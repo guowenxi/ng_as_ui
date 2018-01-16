@@ -1,44 +1,15 @@
-<!-- <table class="report-title">
-    <colgroup span="2" align="center" width="10%">
-        <col>
-    </colgroup>
-    <thead>
-        <tr>
-            <th ng-repeat="tilte in de_val.listResult">123</th>
-            <th>123</th>
-            <th>123</th>
-            <th>123</th>
-        </tr>
-    </thead>
-</table>
-<table class="report-main">
-    <colgroup span="2" align="center" width="10%"></colgroup>
-    <tbody>
-        <tr>
-            <td>
-                12312
-            </td>
-            <td>
-                12312
-            </td>
-            <td>
-                12312
-            </td>
-        </tr>
-        <tr>
-            <td>
-                12312
-            </td>
-            <td>
-                12312
-            </td>
-            <td>
-                12312
-            </td>
-        </tr>
-    </tbody>
-</table>-->
-<!--
-<report-header></report-header>
-<column></column>
--->
+<div class="as-report-title" style="width:100%;">
+    <table ng-style="{width:allWidth}">
+        <colgroup align="center">
+            <col ng-repeat="t in column" align="{{t.align}}" width="{{t.width}}">
+        </colgroup>
+        <tbody>
+            <tr>
+                <td ng-style="{'text-align': t.align}" ng-repeat="t in column">{{t.label}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="as-report-main" ng-transclude></div>
+
+

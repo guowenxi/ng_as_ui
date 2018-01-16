@@ -7,6 +7,7 @@
 <style>
     .demo-charts{width:20vw;height:20vh;position: absolute;left:0;top:0;}
     .charts02{width:20vw;height:20vh;position: absolute;left:20vh;top:0;}
+    .report{width:100%;height:100%;position: absolute;left:0;top:0;}
 </style>
 
 <!--------------------------------jq------------------------------>
@@ -31,10 +32,9 @@
 
 
 <charts></charts>
-<report url="/hzcg/getEmergencyEventList" url-params="">
-    <report-header></report-header>
-    <column></column>
-    <column></column>
+<report url="aa.json" url-params="" class="report" id="12312" >
+    <column label="所属城区" prop="name" align="center" width="10%"></column>
+    <column  label="所属城区" prop="date"></column>
 </report>
 </body>
 </html>
